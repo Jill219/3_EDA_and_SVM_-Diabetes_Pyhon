@@ -5,13 +5,14 @@
 ### Objects:  
 Conduct exploratory analysis and utilize sci-kit learn to train and test a support vector machine (SVM) to detect diabetes.  
 
-### Steps:    
-  **EDA:**  
+### Steps:            
+**EDA:**    
    * Cleaning data.  
    * Descriptive Statistics.  
    * Visualization of important analysis.  
-   * Correlation and Visualization.  
-  **ML:**
+   * Correlation and Visualization.    
+   
+**ML:**
    * Split into train and test sets.
    * Impute Na.
    * Scale the data.
